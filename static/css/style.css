@@ -5348,6 +5348,7 @@ body.sidebar-layout .chat-box {
 .pt-loader-letter:nth-child(8){ animation-delay: 0.837s; }
 .pt-loader-letter:nth-child(9){ animation-delay: 0.942s; }
 .pt-loader-letter:nth-child(10){ animation-delay: 1.047s; }
+.pt-loader-letter:nth-child(11){ animation-delay: 1.152s; }
 
 @keyframes pt-loader-letter-anim{
     0%   { opacity: 0; }
